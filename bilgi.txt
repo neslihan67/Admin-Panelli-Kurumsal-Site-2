@@ -1,0 +1,6 @@
+Burada sited sabıt olan sayfalar yer alıyor.
+ust alan yan alan alt alan var.
+teknık ısımleri 
+*header 
+*sidebar(menu) 
+*footer kısımları
